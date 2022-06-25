@@ -1,5 +1,5 @@
 # General
-This repositiry contains some ML examples
+This repository contains some ML examples
 
 ## CNN for MNIST Handwritten Digit Classification
 MNIST_Digit_Classification.ipynb
